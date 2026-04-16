@@ -10,7 +10,7 @@ Este proyecto fue desarrollado como parte del módulo de **Diseño de Interfaces
 
 ## Tecnologías utilizadas
 * **HTML5** para la estructura semántica.
-* **CSS3** (Flexbox/Grid) para el diseño y animaciones.
+* **CSS3** para el diseño y animaciones.
 * **JavaScript** para la interactividad de las listas.
 * **Bootstrap** para componentes rápidos y estilizados.
 
