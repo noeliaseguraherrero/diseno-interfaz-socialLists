@@ -1,13 +1,13 @@
-# 🌟 Social Lists Web - Red de Recomendaciones
+# Social Lists Web - Red de Recomendaciones
 
 Plataforma web estática diseñada para que los usuarios puedan crear y compartir listas de recomendaciones de libros, música, videojuegos y moda. 
 
-## 🚀 Características
+## Características
 * **Interfaz Interactiva:** Diseño enfocado en la experiencia de usuario (UX).
 * **Categorías Dinámicas:** Secciones específicas para diferentes tipos de contenido.
 * **Diseño Responsive:** Adaptado para dispositivos móviles y escritorio.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 * **HTML5** para la estructura semántica.
 * **CSS3** (Flexbox/Grid) para el diseño y animaciones.
 * **JavaScript** para la interactividad de las listas.
