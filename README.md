@@ -8,7 +8,7 @@ Este proyecto fue desarrollado como parte del módulo de **Diseño de Interfaces
 * **Categorías Dinámicas:** Secciones específicas para diferentes tipos de contenido.
 * **Diseño Responsive:** Adaptado para dispositivos móviles y escritorio.
 
-## 🛠️ Tecnologías utilizadas
+## 💻 Tecnologías utilizadas
 * **HTML5** para la estructura semántica.
 * **CSS3** para el diseño y animaciones.
 * **JavaScript** para la interactividad de las listas.
