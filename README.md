@@ -1,5 +1,7 @@
 # Social Lists Web - Red de Recomendaciones
 
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-2ea44f?style=for-the-badge&logo=airplay)
+
 Plataforma web estática diseñada para que los usuarios puedan crear y compartir listas de recomendaciones de libros, música, videojuegos y moda. 
 Este proyecto fue desarrollado como parte del módulo de **Diseño de Interfaces Web** en el Grado Superior de **DAW**, enfocándose en la arquitectura de información y la experiencia de usuario.
 
